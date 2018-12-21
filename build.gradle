@@ -21,7 +21,6 @@ apply plugin: 'io.spring.dependency-management'
 apply plugin: 'com.palantir.docker'
 
 group = 'wpfeiffe'
-//name = "employee-service"
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 8
 
